@@ -1,42 +1,22 @@
-\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
-\babel@toc {english}{}
-\defcounter {refsection}{0}\relax 
+\babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Introduction}{5}{chapter.1}%
-\defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {2}Rules}{7}{chapter.2}%
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.1}Organizations’ Name}{7}{section.2.1}%
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.2}Constitution Period Validity }{7}{section.2.2}%
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Objectives }{7}{section.2.3}%
-\defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.4}Membership and Dues }{8}{section.2.4}%
-\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.1}Active Members }{8}{subsection.2.4.1}%
-\defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4.2}Non-Active Members }{8}{subsection.2.4.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Board of Directors (Vorstandes) }{8}{section.2.5}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Cabinet Responsibilities }{9}{section.2.6}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.1}HauptSprecher (Spokesperson) }{9}{subsection.2.6.1}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.2}General Secretary }{9}{subsection.2.6.2}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.3}Finance Secretary }{10}{subsection.2.6.3}%
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6.4}Members }{10}{subsection.2.6.4}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Elections of Cabinet }{10}{section.2.7}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.8}Impeachment of Cabinet Members }{11}{section.2.8}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.9}Events’ advertisement }{11}{section.2.9}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.10}General Meetings }{11}{section.2.10}%
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.11}Committees }{12}{section.2.11}%
-\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Founding Patrons }{8}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Board of Directors (Vorstandes) }{9}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Cabinet Responsibilities }{9}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}HauptSprecher (Spokesperson) }{9}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}General Secretary }{10}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Finance Secretary }{10}{subsection.2.7.3}%
+\contentsline {subsection}{\numberline {2.7.4}Members }{10}{subsection.2.7.4}%
+\contentsline {section}{\numberline {2.8}Elections of Cabinet/Board-of-Directors }{11}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Impeachment of Cabinet Members }{12}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Events’ advertisement }{12}{section.2.10}%
+\contentsline {section}{\numberline {2.11}General Meetings }{12}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Committees }{12}{section.2.12}%
 \contentsline {chapter}{\numberline {3}PSA-KA Constitution – version control sheet }{13}{chapter.3}%
